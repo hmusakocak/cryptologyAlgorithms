@@ -1,5 +1,6 @@
-﻿
+
 string chr = "abcçdefgğhıijklmnoöprsştuüvyz";
+
 
 getinput:
 Console.Write("\nGirdi giriniz: ");
@@ -19,8 +20,12 @@ if (process == 1)
         {
             if (input[i] == chars)
             {
-                var crypted = chr[chr.IndexOf(chars) + 3];
-                newstring.Add(crypted);
+                var index = chr.IndexOf(chars) + 3;
+                if (index > chr.Length-1)
+                {
+                    index =  chr.IndexOf(chars) + 3 -  chr.Length ;
+                }
+                newstring.Add(chr[index]);
             }
         }
     }
@@ -48,7 +53,7 @@ if (process == 2)
                 var index = chr.IndexOf(chars) - 3;
                 if (index <= 0)
                 {
-                    index = chr.Length + chr.IndexOf(chars)-3;
+                    index = chr.Length + chr.IndexOf(chars) - 3;
                 }
                 var crypted = chr[index];
                 newstring.Add(crypted);
@@ -62,4 +67,3 @@ if (process == 2)
     }
     goto getinput;
 }
-
