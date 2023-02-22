@@ -1,0 +1,15 @@
+C:\Users\HMK\source\repos\Shift_Algorithm\bin\Debug\net6.0\Shift_Algorithm.exe
+C:\Users\HMK\source\repos\Shift_Algorithm\bin\Debug\net6.0\Shift_Algorithm.deps.json
+C:\Users\HMK\source\repos\Shift_Algorithm\bin\Debug\net6.0\Shift_Algorithm.runtimeconfig.json
+C:\Users\HMK\source\repos\Shift_Algorithm\bin\Debug\net6.0\Shift_Algorithm.dll
+C:\Users\HMK\source\repos\Shift_Algorithm\bin\Debug\net6.0\Shift_Algorithm.pdb
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.csproj.AssemblyReference.cache
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.AssemblyInfoInputs.cache
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.AssemblyInfo.cs
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.dll
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\refint\Shift_Algorithm.dll
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.pdb
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\Shift_Algorithm.genruntimeconfig.cache
+C:\Users\HMK\source\repos\Shift_Algorithm\obj\Debug\net6.0\ref\Shift_Algorithm.dll
