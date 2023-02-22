@@ -1,0 +1,15 @@
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\bin\Debug\net6.0\Linear_Crypt_Algorithm.exe
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\bin\Debug\net6.0\Linear_Crypt_Algorithm.deps.json
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\bin\Debug\net6.0\Linear_Crypt_Algorithm.runtimeconfig.json
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\bin\Debug\net6.0\Linear_Crypt_Algorithm.dll
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\bin\Debug\net6.0\Linear_Crypt_Algorithm.pdb
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.csproj.AssemblyReference.cache
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.AssemblyInfoInputs.cache
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.AssemblyInfo.cs
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.dll
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\refint\Linear_Crypt_Algorithm.dll
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.pdb
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\Linear_Crypt_Algorithm.genruntimeconfig.cache
+C:\Users\HMK\source\repos\Linear_Crypt_Algorithm\obj\Debug\net6.0\ref\Linear_Crypt_Algorithm.dll
