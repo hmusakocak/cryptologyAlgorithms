@@ -1,8 +1,8 @@
 <h1 align="center"> Cryptology Algorithms </h1>
 
-- **Caesar Algorithm**
+- **Caesar Cipher**
 - **Linear Crypt(Affine Cipher) Algorithm**
-- **Shift Algorithm**
+- **Shift Cipher**
 
 <h3> Affine Cipher formulas below. </h3>
 
