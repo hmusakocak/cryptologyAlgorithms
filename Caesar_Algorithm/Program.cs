@@ -51,9 +51,9 @@ if (process == 2)
             if (input[i] == chars)
             {
                 var index = chr.IndexOf(chars) - 3;
-                if (index <= 0)
+                if (index < 0)
                 {
-                    index = chr.Length + chr.IndexOf(chars) - 3;
+                    index = chr.Length - chr.IndexOf(chars) - 3;
                 }
                 var crypted = chr[index];
                 newstring.Add(crypted);
