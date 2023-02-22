@@ -3,7 +3,7 @@
 string chr = "abcçdefgğhıijklmnoöprsştuüvyz";
 
 getinput:
-Console.Write("\nDoğrusal şifreleme için a anahtarını giriniz:");
+Console.Write("\nDoğrusal şifreleme için a anahtarını giriniz(Tek sayı olmalıdır!):");
 short inputa = Convert.ToInt16(Console.ReadLine());
 Console.Write("\nDoğrusal şifreleme için b anahtarını giriniz:");
 short inputb = Convert.ToInt16(Console.ReadLine());
