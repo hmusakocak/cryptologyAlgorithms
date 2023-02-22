@@ -2,3 +2,4 @@
 
 - **Caesar Algorithm**
 - **Linear Crypt Algorithm**
+- **Shift Algorithm**
